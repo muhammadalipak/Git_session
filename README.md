@@ -17,13 +17,15 @@ This is written by Nomdinoh
 Assalam U Alaikum guys! This is Wadood Alam
 
 
- My name is Ahsan Ali and my akeana ID is: ahsan.ali@akeana.com
+ My name is Ahsan Ali and my akeana ID is : ahsan.ali@akeana.com
 
 
 AHmad Mukhtar
 
 
 W Salam! Wadood bhai
+
+shahzad.akhter@akeana.com
 
 
 
