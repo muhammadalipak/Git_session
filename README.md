@@ -15,9 +15,9 @@ This is written by Nomdinoh
 
 
 Assalam U Alaikum guys! This is Wadood Alam
-<<<<<<< HEAD
 
- My name is Ahsan Ali and my akeana ID is: ahsan.ali@akeana.com
+
+ My name is Ahsan Ali and my akeana ID is : ahsan.ali@akeana.com
 
 
 AHmad Mukhtar
@@ -30,4 +30,9 @@ my name is shahzad akhter and my akeana ID is: shahzad.akhter@akeana.com
 
 
 Kashif here --  please don't remove it now.
+hy from khizer
 
+
+
+
+hI FROM uSAMA
