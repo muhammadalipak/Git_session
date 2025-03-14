@@ -39,8 +39,7 @@ Maaz
 
 
 
-
-hy from taqi
+My name is taqi
 =======
 My name is Muhammad Atif and my akeana ID is  :muhammad.atif@akeana.com
 We are ALI, ATTABIK and USAMA
