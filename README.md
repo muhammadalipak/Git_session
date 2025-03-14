@@ -26,10 +26,8 @@ AHmad Mukhtar
 W Salam! Wadood bhai
 
 shahzad.akhter@akeana.com
-
+my name is shahzad akhter and my akeana ID is: shahzad.akhter@akeana.com
 
 
 Kashif here --  please don't remove it now.
 hy from khizer
-
-Maaz Ullah second commit
