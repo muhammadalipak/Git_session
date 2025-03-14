@@ -43,6 +43,9 @@ My name is taqi
 
 
 why its bold
+
+is the last line always bold even if i leave one empty line as well
+
 =======
 My name is Muhammad Atif and my akeana ID is  :muhammad.atif@akeana.com
 We are ALI, ATTABIK and USAMA
