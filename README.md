@@ -6,6 +6,7 @@ Maaz Ullah (maaz.ullah@akeana.com)
 Everyone please filll this in given formate:
 
 
+<<<<<<< Updated upstream
 My name is muhammad Ali and my akeana ID is  :muhammad.ali@akeana.com
 
 
@@ -40,3 +41,8 @@ Maaz
 
 
 hy from taqi
+=======
+My name is Muhammad Atif and my akeana ID is  :muhammad.atif@akeana.com
+We are ALI, ATTABIK and USAMA
+Again making chnages
+>>>>>>> Stashed changes
